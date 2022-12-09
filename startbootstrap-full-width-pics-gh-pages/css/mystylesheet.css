@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(120, 158, 186);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #000000;
+
+}
+.center{
+    text-align: center;
+}
+.picvid{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
+li{
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(31, 33, 32);
+    font-size: medium;
+    font-weight: normal;
+}
+.titleeffect{
+    /* background-color: #cccccc; */
+    border: 2px solid black;
+
+}
